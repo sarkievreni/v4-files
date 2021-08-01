@@ -1,0 +1,20 @@
+[
+    {
+        "app_name":"com.tubazy.pro",
+        "version": "*", 
+        "lists": [101,102,103],
+        "default_list": 2
+    },
+    {
+        "app_name":"ikinci.tubazy.pro",
+        "version": 1001,
+        "lists": [101,102,103],
+        "default_list": 1
+    },
+    {
+        "app_name":"ucuncu.tubazy.pro",
+        "version": 1003,
+        "lists": [101,102,103],
+        "default_list": 0
+    }
+]
