@@ -9,6 +9,7 @@
         "message_type": 2
     },
     "ads_disabled": false,
+    "ads_muted": false,
     "passive_ads": [
         101,
         256
