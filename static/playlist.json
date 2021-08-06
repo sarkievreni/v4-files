@@ -4,52 +4,112 @@
         {
             "language": "tr",
             "default": 0,
-            "data": {
-                "En Yeniler": "/lists/tr/new.json",
-                "Türkiye Trendler": "/lists/tr/trends.json",
-                "Rap Popüler": "/lists/tr/rap.json",
-                "Az Bilinenler": "/lists/tr/underrated.json"
-            }
+            "data": [
+                {
+                    "title": "En Yeniler",
+                    "url":  "/lists/tr/new.json"
+                },
+                {
+                    "title": "Türkiye Trendler",
+                    "url":  "/lists/tr/trends.json"
+                },
+                {
+                    "title": "Rap Popüler",
+                    "url":  "/lists/tr/rap.json"
+                },
+                {
+                    "title": "Az Bilinenler",
+                    "url":  "/lists/tr/underrated.json"
+                }
+            ]
         },
         {
             "language": "en",
             "default": 0,
-            "data": {
-                "New Releases": "/lists/en/new.json",
-                "Global Trends": "/lists/en/trends.json",
-                "Rap Populars": "/lists/en/rap.json",
-                "Underrateds": "/lists/en/underrated.json"
-            }
+            "data": [
+                {
+                    "title": "New Releases",
+                    "url":  "/lists/en/new.json"
+                },
+                {
+                    "title": "Global Trends",
+                    "url":  "/lists/en/trends.json"
+                },
+                {
+                    "title": "Rap Populars",
+                    "url":  "/lists/en/rap.json"
+                },
+                {
+                    "title": "Underrateds",
+                    "url":  "/lists/en/underrated.json"
+                }
+            ]
         },
         {
             "language": "pt",
             "default": 0,
-            "data": {
-                "Novos Lançamentos": "/lists/pt/new.json",
-                "Tendências Portuguesas": "/lists/pt/trends.json",
-                "Populares do Reggae": "/lists/pt/rap.json",
-                "Canções Subestimadas": "/lists/pt/underrated.json"
-            }
+            "data": [
+                {
+                    "title": "Novos Lançamentos",
+                    "url":  "/lists/pt/new.json"
+                },
+                {
+                    "title": "Tendências Portuguesas",
+                    "url":  "/lists/pt/trends.json"
+                },
+                {
+                    "title": "Populares do Reggae",
+                    "url":  "/lists/pt/raggae.json"
+                },
+                {
+                    "title": "Canções Subestimadas",
+                    "url":  "/lists/pt/underrated.json"
+                }
+            ]
         },
         {
             "language": "es",
             "default": 0,
-            "data": {
-                "Nuevos Lanzamientos": "/lists/es/new.json",
-                "Tendencias en España": "/lists/es/trends.json",
-                "Músicas de Baile": "/lists/es/dance.json",
-                "Canciones Subestimadas": "/lists/es/underrated.json"
-            }
+            "data": [
+                {
+                    "title": "Nuevos Lanzamientos",
+                    "url":  "/lists/pt/new.json"
+                },
+                {
+                    "title": "Tendencias en España",
+                    "url":  "/lists/pt/trends.json"
+                },
+                {
+                    "title": "Músicas de Baile",
+                    "url":  "/lists/pt/dance.json"
+                },
+                {
+                    "title": "Canciones Subestimadas",
+                    "url":  "/lists/pt/underrated.json"
+                }
+            ]
         },
         {
             "language": "ru",
             "default": 0,
-            "data": {
-                "Новые песни": "/lists/ru/new.json",
-                "Тенденции России": "/lists/ru/trends.json",
-                "Популярная поп-музыка": "/lists/ru/pop.json",
-                "Недооцененные песни": "/lists/ru/underrated.json"
-            }
+            "data": [
+                {
+                    "title": "Новые песни",
+                    "url":  "/lists/ru/new.json"
+                },
+                {
+                    "title": "Тенденции России",
+                    "url":  "/lists/ru/trends.json"
+                },
+                {
+                    "title": "Популярная поп-музыка",
+                    "url":  "/lists/ru/pop.json"
+                },
+                {
+                    "title": "Недооцененные песни",
+                    "url":  "/lists/ru/underrated.json"
+                }
+            ]
         }
     ]
 }
