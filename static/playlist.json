@@ -1,3 +1,55 @@
 {
-    
+    "last_update": 1628262434000,
+    "lists": [
+        {
+            "language": "tr",
+            "default": 0,
+            "data": {
+                "En Yeniler": "/lists/tr/new.json",
+                "Türkiye Trendler": "/lists/tr/trends.json",
+                "Rap Popüler": "/lists/tr/rap.json",
+                "Az Bilinenler": "/lists/tr/underrated.json"
+            }
+        },
+        {
+            "language": "en",
+            "default": 0,
+            "data": {
+                "New Releases": "/lists/en/new.json",
+                "Global Trends": "/lists/en/trends.json",
+                "Rap Populars": "/lists/en/rap.json",
+                "Underrateds": "/lists/en/underrated.json"
+            }
+        },
+        {
+            "language": "pt",
+            "default": 0,
+            "data": {
+                "Novos Lançamentos": "/lists/pt/new.json",
+                "Tendências Portuguesas": "/lists/pt/trends.json",
+                "Populares do Reggae": "/lists/pt/rap.json",
+                "Canções Subestimadas": "/lists/pt/underrated.json"
+            }
+        },
+        {
+            "language": "es",
+            "default": 0,
+            "data": {
+                "Nuevos Lanzamientos": "/lists/es/new.json",
+                "Tendencias en España": "/lists/es/trends.json",
+                "Músicas de Baile": "/lists/es/dance.json",
+                "Canciones Subestimadas": "/lists/es/underrated.json"
+            }
+        },
+        {
+            "language": "ru",
+            "default": 0,
+            "data": {
+                "Новые песни": "/lists/ru/new.json",
+                "Тенденции России": "/lists/ru/trends.json",
+                "Популярная поп-музыка": "/lists/ru/pop.json",
+                "Недооцененные песни": "/lists/ru/underrated.json"
+            }
+        }
+    ]
 }
