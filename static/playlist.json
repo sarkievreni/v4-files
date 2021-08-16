@@ -59,7 +59,7 @@
                 },
                 {
                     "title": "Populares do Reggae",
-                    "url":  "/lists/pt/raggae.json"
+                    "url":  "/lists/pt/rap.json"
                 },
                 {
                     "title": "Canções Subestimadas",
@@ -73,19 +73,19 @@
             "data": [
                 {
                     "title": "Nuevos Lanzamientos",
-                    "url":  "/lists/pt/new.json"
+                    "url":  "/lists/es/new.json"
                 },
                 {
                     "title": "Tendencias en España",
-                    "url":  "/lists/pt/trends.json"
+                    "url":  "/lists/es/trends.json"
                 },
                 {
                     "title": "Músicas de Baile",
-                    "url":  "/lists/pt/dance.json"
+                    "url":  "/lists/es/rap.json"
                 },
                 {
                     "title": "Canciones Subestimadas",
-                    "url":  "/lists/pt/underrated.json"
+                    "url":  "/lists/es/underrated.json"
                 }
             ]
         },
@@ -103,7 +103,7 @@
                 },
                 {
                     "title": "Популярная поп-музыка",
-                    "url":  "/lists/ru/pop.json"
+                    "url":  "/lists/ru/rap.json"
                 },
                 {
                     "title": "Недооцененные песни",
