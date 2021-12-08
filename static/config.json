@@ -44,12 +44,11 @@
     "redirection": "com.sarki.evreni",
     "updates": {
         "mandatory": [
-            2200,
-            3200,
+            45,
             1320
         ],
         "optional": [
-            2201,
+            46,
             3201,
             1450
         ]
