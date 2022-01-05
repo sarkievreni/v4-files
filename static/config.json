@@ -44,7 +44,6 @@
     "redirection": "com.sarki.evreni",
     "updates": {
         "mandatory": [
-            49,
             1320
         ],
         "optional": [
