@@ -1,164 +1,177 @@
 [
     {
-        "video_id": 6790398072606241,
-        "title": "Calboy- Jungle Juice (Official Music Video)",
-        "duration": 230,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398072606241.webp?token=556f6d3533453249424b55"
+        "id": 28961228583882273,
+        "token": "676e5a5a49793938674c59",
+        "title": "Alev Soylu - Nefes",
+        "duration": 236,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228583882273.webp?token=676e5a5a49793938674c59"
     },
     {
-        "video_id": 6790398089383457,
-        "title": "Tylan feat. Soulja Boy - My Type (Official Music Video)",
-        "duration": 204,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398089383457.webp?token=5f65573652614d55723477"
+        "id": 28961228617436705,
+        "token": "3146464f447a3065597730",
+        "title": "Bahadır \u0026 Eli Türkoğlu feat. Şahin Ağasoy - Vur Dibine",
+        "duration": 160,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228617436705.webp?token=3146464f447a3065597730"
     },
     {
-        "video_id": 6790398106160673,
-        "title": "4LFA - 3ich (Official Music Video)",
-        "duration": 196,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398106160673.webp?token=316f7a70363157504d5777"
+        "id": 28961228634213921,
+        "token": "38696c424f35344c326155",
+        "title": "Mustafa Sandal \u0026 İndira Elemes - Yoksay",
+        "duration": 226,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228634213921.webp?token=38696c424f35344c326155"
     },
     {
-        "video_id": 6790347204152865,
-        "title": "Can Bonomo - Rüyamda Buluttum (ft. Demet Evgar) [Official Video]",
-        "duration": 209,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790347204152865.webp?token=57337a35587674554b396f"
+        "id": 28961228650991137,
+        "token": "3034536b63396535483238",
+        "title": "Vassilis Saleas \u0026 Ahmet Koç - Sen Ağlama",
+        "duration": 240,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228650991137.webp?token=3034536b63396535483238"
     },
     {
-        "video_id": 6790398156557857,
-        "title": "Lizzo - Rumors feat. Cardi B [Official Video]",
-        "duration": 187,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398156557857.webp?token=3450395855726e69694b34"
-    },
-    {
-        "video_id": 6790398156623393,
-        "title": "BLIND CHANNEL - Balboa (OFFICIAL VIDEO)",
-        "duration": 193,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398156623393.webp?token=765542627a674831654a45"
-    },
-    {
-        "video_id": 6790398173269537,
-        "title": "Didine Canon 16 - 2x4 (Official Music Video)",
-        "duration": 158,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398173269537.webp?token=58447865676c53534d3434"
-    },
-    {
-        "video_id": 6790398173335073,
-        "title": "FARID BANG x ELIF - MONEY II [official Video] prod. by YOUNG MESH \u0026 KYREE",
-        "duration": 218,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398173335073.webp?token=454a71367365616a6b684d"
-    },
-    {
-        "video_id": 6790398190046753,
-        "title": "Prince Royce - Lao' a Lao' (Official Video)",
-        "duration": 224,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398190046753.webp?token=6239765359724c43793834"
-    },
-    {
-        "video_id": 6790398190112289,
-        "title": "NSG - Petite [Official Video]",
-        "duration": 249,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398190112289.webp?token=497a547952566e4258584d"
-    },
-    {
-        "video_id": 6790398190177825,
-        "title": "LORNA SHORE - And I Return To Nothingness (OFFICIAL VIDEO)",
-        "duration": 373,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398190177825.webp?token=78484535673959676b4667"
-    },
-    {
-        "video_id": 6790398206823969,
-        "title": "Dream Theater - The Alien (Official Video)",
-        "duration": 573,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398206823969.webp?token=5634363249734f56336a73"
-    },
-    {
-        "video_id": 6790398206889505,
-        "title": "Michaela Jaé - Something To Say (Official Music Video)",
-        "duration": 247,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398206889505.webp?token=386f3835706b727a693173"
-    },
-    {
-        "video_id": 6790398223601185,
-        "title": "Cam\u0026Fam - If I Told You (Official Music Video)",
-        "duration": 199,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398223601185.webp?token=425f427043585663455238"
-    },
-    {
-        "video_id": 6790398223666721,
-        "title": "Safir - Hoyrat (Official Video)",
+        "id": 27547714480786977,
+        "token": "31614f547344767559356f",
+        "title": "Burak Bulut \u0026 Ebru Yaşar \u0026 Kurtuluş Kuş - İçime Ata Ata",
         "duration": 172,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398223666721.webp?token=7a482d744a6644674c7245"
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/27547714480786977.webp?token=31614f547344767559356f"
     },
     {
-        "video_id": 6790398223732257,
-        "title": "Kidene \u0026 Chege - Bado Najiandaa (Official Music Video)",
-        "duration": 255,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398223732257.webp?token=3836347a334c42386f4373"
+        "id": 28961228684611105,
+        "token": "53594f63655f7755684130",
+        "title": "Cansever - Çukur",
+        "duration": 153,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228684611105.webp?token=53594f63655f7755684130"
     },
     {
-        "video_id": 6790398240378401,
-        "title": "Tim McGraw - 7500 OBO (Official Music Video)",
-        "duration": 228,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398240378401.webp?token=5a6f647239666746365534"
+        "id": 28961228701322785,
+        "token": "6a484e5a366566786d3734",
+        "title": "Okan \u0026 Volkan - Müslüm Baba Çal",
+        "duration": 172,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228701322785.webp?token=6a484e5a366566786d3734"
     },
     {
-        "video_id": 6790398240443937,
-        "title": "Black Eyed Peas, Saweetie, Lele Pons - HIT IT (Official Music Video)",
-        "duration": 237,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398240443937.webp?token=354b494d636179485f6a51"
+        "id": 28961228734877217,
+        "token": "45482d38396c72344e7277",
+        "title": "Ardıç - Alın Yazım",
+        "duration": 213,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228734877217.webp?token=45482d38396c72344e7277"
     },
     {
-        "video_id": 6790398257155617,
-        "title": "Sub Urban \u0026 Bella Poarch - INFERNO (Official Music Video)",
-        "duration": 234,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398257155617.webp?token=6867463148495f6b573673"
+        "id": 28961228751654433,
+        "token": "4265625177716e6b30684d",
+        "title": "Mustafa Ceceli \u0026 Nigar Muharrem- Salıncak",
+        "duration": 169,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228751654433.webp?token=4265625177716e6b30684d"
     },
     {
-        "video_id": 6790398257221153,
-        "title": "Ariana Grande - 7 rings (Official Video)",
+        "id": 28961228768431649,
+        "token": "4155715f43786b4d387359",
+        "title": "İdo Tatlıses - Yağmurlar",
+        "duration": 215,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228768431649.webp?token=4155715f43786b4d387359"
+    },
+    {
+        "id": 28961228785208865,
+        "token": "4b49396e56524c31397849",
+        "title": "Vedat Karan - Gurbet Eli Çekilmiyor",
+        "duration": 207,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228785208865.webp?token=4b49396e56524c31397849"
+    },
+    {
+        "id": 28961228818763297,
+        "token": "394771344b4b6f54463059",
+        "title": "Esin Kaya - Ah Gönlüm",
+        "duration": 174,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228818763297.webp?token=394771344b4b6f54463059"
+    },
+    {
+        "id": 15882947487878689,
+        "token": "48356c4d58745049706345",
+        "title": "Aleyna Tilki - Sır",
+        "duration": 209,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/15882947487878689.webp?token=48356c4d58745049706345"
+    },
+    {
+        "id": 28961228852317729,
+        "token": "6f6d313566413154384d77",
+        "title": "İrem Derici - Yazsın Bana",
         "duration": 185,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398257221153.webp?token=515968366d59494a473259"
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228852317729.webp?token=6f6d313566413154384d77"
     },
     {
-        "video_id": 6790398273932833,
-        "title": "Elton John, Dua Lipa - Cold Heart (PNAU Remix) (Official Video)",
-        "duration": 255,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398273932833.webp?token=716f6430335056544c716b"
+        "id": 28961228869094945,
+        "token": "5a6a6851436e4c45793867",
+        "title": "Cioman - Affetmem",
+        "duration": 121,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228869094945.webp?token=5a6a6851436e4c45793867"
     },
     {
-        "video_id": 6790398273998369,
-        "title": "Kihenjo Samidoh Na Karen Nyamu \"TWA!! TWA!! VUA .....PARAGACHA!\"😂😂😂",
-        "duration": 1116,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398273998369.webp?token=63754a485f66316d355930"
+        "id": 28961228902649377,
+        "token": "554562535169594652424d",
+        "title": "Fatih Bulut - Çok Sevdim Yalan Oldu",
+        "duration": 241,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228902649377.webp?token=554562535169594652424d"
     },
     {
-        "video_id": 6790398290710049,
-        "title": "Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign",
+        "id": 28961228919426593,
+        "token": "716d704f526c79764a706f",
+        "title": "Mahsun Kırmızıgül - Dinle 2022",
         "duration": 220,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398290710049.webp?token=35474c394a6f4834537773"
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961228919426593.webp?token=716d704f526c79764a706f"
     },
     {
-        "video_id": 6790398290775585,
-        "title": "Sueco - Paralyzed [Official Audio]",
-        "duration": 163,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398290775585.webp?token=372d723143496c33394477"
+        "id": 15807257765760545,
+        "token": "6547477032727256364e49",
+        "title": "Ece Ronay - Git Çatla (Official Video)",
+        "duration": 100,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/15807257765760545.webp?token=6547477032727256364e49"
     },
     {
-        "video_id": 6790347438968353,
-        "title": "RÜZGAR ERKOÇLAR \"İÇİMDE 60 YAŞINDA BİR DEDE OTURUYOR!\"",
-        "duration": 2615,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790347438968353.webp?token=6d63356e51764f48364655"
+        "id": 14350585616682529,
+        "token": "5536366978686462784549",
+        "title": "Tarkan - Yolla",
+        "duration": 286,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/14350585616682529.webp?token=5536366978686462784549"
     },
     {
-        "video_id": 6790398307552801,
-        "title": "Crazy Frog - We Are The Champions (Official Video)",
-        "duration": 181,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398307552801.webp?token=535f494171777276457555"
+        "id": 16382050688847393,
+        "token": "634f65774b396e3957494d",
+        "title": "Ece Mumay - Peri",
+        "duration": 174,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/16382050688847393.webp?token=634f65774b396e3957494d"
     },
     {
-        "video_id": 6790398307618337,
-        "title": "MJ Rodriguez on \"What RENT Means To Me\"",
-        "duration": 41,
-        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/6790398307618337.webp?token=4d70656a62793976376c30"
+        "id": 14559858065952289,
+        "token": "72626a41696c6b33315367",
+        "title": "Kurtuluş Kuş \u0026 Burak Bulut - Sevmedim Deme",
+        "duration": 152,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/14559858065952289.webp?token=72626a41696c6b33315367"
+    },
+    {
+        "id": 28961228986535457,
+        "token": "41765369574f3435455473",
+        "title": "Tuvana Türkay - Geceler",
+        "duration": 216,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/28961228986535457.webp?token=41765369574f3435455473"
+    },
+    {
+        "id": 28961229003312673,
+        "token": "6453733677774a4c57594d",
+        "title": "Sefo - Affettim (prod.by Aerro)",
+        "duration": 200,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/28961229003312673.webp?token=6453733677774a4c57594d"
+    },
+    {
+        "id": 21314958117588513,
+        "token": "6938527a333641564a584d",
+        "title": "Rabia Tunçbilek - Müsaadenle",
+        "duration": 159,
+        "thumbnail": "https://tubazy-thumbnail-service.herokuapp.com/hqdefault/21314958117588513.webp?token=6938527a333641564a584d"
+    },
+    {
+        "id": 21314957798821409,
+        "token": "4e64747a5a59784d634b41",
+        "title": "Ziynet Sali - Kalbim Tatilde",
+        "duration": 166,
+        "thumbnail": "https://thumbnail.tbzy.app/hqdefault/21314957798821409.webp?token=4e64747a5a59784d634b41"
     }
 ]
