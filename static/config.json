@@ -1,5 +1,5 @@
 {
-    "screen_recordable": false,
+    "screen_recordable": true,
     "entry_message": {
         "action_type": 1,
         "action_link": "http://google.com",
